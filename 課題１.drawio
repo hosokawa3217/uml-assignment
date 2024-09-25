@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="Lo0m9wbOEnz2ID4Yv2Ut-1" value="" style="whiteSpace=wrap;html=1;aspect=fixed;fillColor=#f8cecc;strokeColor=#b85450;" parent="1" vertex="1">
-          <mxGeometry x="310" y="180" width="80" height="80" as="geometry" />
+          <mxGeometry x="390" y="270" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="p9iNDjVz-hU1O5Anvqw2-74" value="" style="childLayout=tableLayout;recursiveResize=0;shadow=0;fillColor=none;fontColor=default;" parent="1" vertex="1">
           <mxGeometry x="320" y="600" width="180" height="140" as="geometry" />
@@ -120,6 +120,9 @@
           <mxGeometry x="122" width="60" height="40" as="geometry">
             <mxRectangle width="60" height="40" as="alternateBounds" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nbs8rKUnX6Y7LohECjQu-1" value="Actor" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;" vertex="1" parent="1">
+          <mxGeometry x="300" y="260" width="30" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
